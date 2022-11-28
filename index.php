@@ -1,5 +1,7 @@
 <?php
 
-echo "Hellfghfgfho <strong> Word<strong>!!!";
+echo "Hello <strong> Word<strong>!!!";
+
+echo "ola 123";
 
 ?>
